@@ -1,0 +1,16 @@
+{
+  "name": "BOSSE",
+  "symbol": "BOSSE",
+  "description": "Token officiel $BOSSE on Solana. Community-driven meme coin and narrative project.",
+  "image": "https://raw.githubusercontent.com/BOSSEcoin/token-list/main/logo.png",
+  "external_url": "https://bossecoin.com",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BOSSEcoin/token-list/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

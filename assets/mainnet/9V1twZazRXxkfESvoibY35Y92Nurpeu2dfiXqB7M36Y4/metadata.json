@@ -2,10 +2,20 @@
   "name": "LABOSSE",
   "symbol": "LABOSSE",
   "description": "Token officiel $BOSSE on Solana. Community-driven meme coin and narrative project.",
-  "image": "logo.png",
+  "image": "https://raw.githubusercontent.com/BOSSEcoin/token-list/main/assets/mainnet/9V1twZazRXxkfESvoibY35Y92Nurpeu2dfiXqB7M36Y4/logo.png",
+  "external_url": "https://bossecoin.com",
   "extensions": {
     "twitter": "https://x.com/TheBOSSEcoin",
     "discord": "https://discord.gg/P8XM8fk32W",
     "github": "https://github.com/BOSSEcoin"
+  },
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BOSSEcoin/token-list/main/assets/mainnet/9V1twZazRXxkfESvoibY35Y92Nurpeu2dfiXqB7M36Y4/logo.png",
+        "type": "image/png"
+      }
+    ]
   }
 }

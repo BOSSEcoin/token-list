@@ -3,7 +3,7 @@
 This folder contains the official assets and metadata for the BOSSE token on Solana mainnet.
 
 - **Mint:** `9V1twZazRXxkfESvoibY35Y92Nurpeu2dfiXqB7M36Y4`
-- **Symbol:** BOSSE
+- **Symbol:** LABOSSE
 - **Network:** mainnet-beta
 
 ## Files
